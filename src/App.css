@@ -1,0 +1,14 @@
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 40%;
+  margin: 70px auto;
+}
+
+form input {
+  margin-top: 10px;
+  margin-right: 10px;
+}
